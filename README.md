@@ -101,24 +101,6 @@ Benefits include:
 
 Whenever developers push new code to the repository, automated pipelines ensure the application builds successfully and passes all tests.
 
----
-
-## Repository Contents
-
-```
-SDLC-Assignment
-│
-├── Smart_Attend_SDLC_Assignment_Ajay_Bisht.pdf
-├── Smart_Attend_Sprint_Backlog_Ajay_Bisht.xlsx
-└── README.md
-```
-
----
-
 ## Conclusion
 
 The Smart-Attend project demonstrates why **Agile methodologies are better suited for projects with evolving requirements**. By using Scrum, the development team can respond quickly to changes such as integrating **biometric Face ID verification** while continuing to deliver functional software in short iterations.
-
----
-
-© 2026 Ajay Bisht
